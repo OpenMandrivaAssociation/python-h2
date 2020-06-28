@@ -14,6 +14,9 @@ BuildRequires:	pkgconfig(python)
 BuildRequires:	python3dist(setuptools)
 %{?python_provide:%python_provide python3-%{module}}
 
+Requires: python3dist(hpack)
+Requires: python3dist(hyperframe)
+
 %description
 This module contains a pure-Python implementation of a HTTP/2 protocol stack.
 It’s written from the ground up to be embeddable in whatever program
