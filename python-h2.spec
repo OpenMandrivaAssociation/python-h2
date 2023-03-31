@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	4.1.0
-Release:	2
+Release:	3
 Summary:	HTTP/2 State-Machine based protocol implementation
 Group:		Development/Python
 License:	MIT
