@@ -1,7 +1,7 @@
 %define module h2
 
 Name:		python-h2
-Version:	4.3.0
+Version:	4.4.0
 Release:	1
 Summary:	HTTP/2 State-Machine based protocol implementation
 Group:		Development/Python
